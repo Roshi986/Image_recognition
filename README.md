@@ -55,4 +55,4 @@ For lbp dataset, SVM, RF and ANN was carried out. SVM gave an accuracy of 46.2% 
 Conclusion
 Conclusion In these experiment, it can be seen that for hog_ros dataset, any of the classifier can perform well with an accuracy of almost 100%. For all the classifiers and datasets, it is possible to improve the performance of the models by tuning the hyper parameters (optimisers, activation function and learning rates) and improving the validation framework. Splitting the datasets could be improved by further splitting the training sets into validation set to validate the model’s performance on unseen data or using k-fold cross validation and looking at performance on each fold. Other metrics such as error rates could also be useful in deciding the best classifier as accuracy alone cannot be the perfect measure of the performance. Other measures such as precision, sensitivity and specificity might also be useful and looking at the statistical significance of the accuracy and loss of each of the classifiers would also be important.
 
-In addition, I did not have time to properly analyse and visualise the performance of all the classfiers statistically.
+
